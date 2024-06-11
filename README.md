@@ -35,3 +35,19 @@ my leetcode solutions
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/Shresth0903/leetcode/tree/master/1137-height-checker) |
+# Math
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Shresth0903/leetcode/tree/master/1013-fibonacci-number) |
+# Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Shresth0903/leetcode/tree/master/1013-fibonacci-number) |
+# Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Shresth0903/leetcode/tree/master/1013-fibonacci-number) |
+# Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Shresth0903/leetcode/tree/master/1013-fibonacci-number) |
