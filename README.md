@@ -22,19 +22,23 @@ my leetcode solutions
 | ------- |
 | [0409-longest-palindrome](https://github.com/Shresth0903/leetcode/tree/master/0409-longest-palindrome) |
 | [1044-find-common-characters](https://github.com/Shresth0903/leetcode/tree/master/1044-find-common-characters) |
+| [1217-relative-sort-array](https://github.com/Shresth0903/leetcode/tree/master/1217-relative-sort-array) |
 # Array
 |  |
 | ------- |
 | [1044-find-common-characters](https://github.com/Shresth0903/leetcode/tree/master/1044-find-common-characters) |
 | [1137-height-checker](https://github.com/Shresth0903/leetcode/tree/master/1137-height-checker) |
+| [1217-relative-sort-array](https://github.com/Shresth0903/leetcode/tree/master/1217-relative-sort-array) |
 # Sorting
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/Shresth0903/leetcode/tree/master/1137-height-checker) |
+| [1217-relative-sort-array](https://github.com/Shresth0903/leetcode/tree/master/1217-relative-sort-array) |
 # Counting Sort
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/Shresth0903/leetcode/tree/master/1137-height-checker) |
+| [1217-relative-sort-array](https://github.com/Shresth0903/leetcode/tree/master/1217-relative-sort-array) |
 # Math
 |  |
 | ------- |
