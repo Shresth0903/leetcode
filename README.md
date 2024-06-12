@@ -5,6 +5,7 @@ my leetcode solutions
 # Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Shresth0903/leetcode/tree/master/0075-sort-colors) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Shresth0903/leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # String
 |  |
@@ -26,12 +27,14 @@ my leetcode solutions
 # Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Shresth0903/leetcode/tree/master/0075-sort-colors) |
 | [1044-find-common-characters](https://github.com/Shresth0903/leetcode/tree/master/1044-find-common-characters) |
 | [1137-height-checker](https://github.com/Shresth0903/leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/Shresth0903/leetcode/tree/master/1217-relative-sort-array) |
 # Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Shresth0903/leetcode/tree/master/0075-sort-colors) |
 | [1137-height-checker](https://github.com/Shresth0903/leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/Shresth0903/leetcode/tree/master/1217-relative-sort-array) |
 # Counting Sort
