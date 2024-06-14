@@ -17,6 +17,7 @@ my leetcode solutions
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/Shresth0903/leetcode/tree/master/0409-longest-palindrome) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/Shresth0903/leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Shresth0903/leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Hash Table
 |  |
@@ -28,6 +29,7 @@ my leetcode solutions
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Shresth0903/leetcode/tree/master/0075-sort-colors) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/Shresth0903/leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1044-find-common-characters](https://github.com/Shresth0903/leetcode/tree/master/1044-find-common-characters) |
 | [1137-height-checker](https://github.com/Shresth0903/leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/Shresth0903/leetcode/tree/master/1217-relative-sort-array) |
@@ -35,11 +37,13 @@ my leetcode solutions
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Shresth0903/leetcode/tree/master/0075-sort-colors) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/Shresth0903/leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/Shresth0903/leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/Shresth0903/leetcode/tree/master/1217-relative-sort-array) |
 # Counting Sort
 |  |
 | ------- |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/Shresth0903/leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/Shresth0903/leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/Shresth0903/leetcode/tree/master/1217-relative-sort-array) |
 # Math
