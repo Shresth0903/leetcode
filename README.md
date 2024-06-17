@@ -6,6 +6,7 @@ my leetcode solutions
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Shresth0903/leetcode/tree/master/0075-sort-colors) |
+| [0633-sum-of-square-numbers](https://github.com/Shresth0903/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Shresth0903/leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # String
 |  |
@@ -49,6 +50,7 @@ my leetcode solutions
 # Math
 |  |
 | ------- |
+| [0633-sum-of-square-numbers](https://github.com/Shresth0903/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1013-fibonacci-number](https://github.com/Shresth0903/leetcode/tree/master/1013-fibonacci-number) |
 # Dynamic Programming
 |  |
@@ -62,3 +64,7 @@ my leetcode solutions
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Shresth0903/leetcode/tree/master/1013-fibonacci-number) |
+# Binary Search
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/Shresth0903/leetcode/tree/master/0633-sum-of-square-numbers) |
