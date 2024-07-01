@@ -71,3 +71,10 @@ my leetcode solutions
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/Shresth0903/leetcode/tree/master/0633-sum-of-square-numbers) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1293-three-consecutive-odds](https://github.com/Shresth0903/leetcode/tree/master/1293-three-consecutive-odds) |
+<!---LeetCode Topics End-->
