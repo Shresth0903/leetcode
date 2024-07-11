@@ -80,6 +80,7 @@ my leetcode solutions
 | [1293-three-consecutive-odds](https://github.com/Shresth0903/leetcode/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Shresth0903/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1720-crawler-log-folder](https://github.com/Shresth0903/leetcode/tree/master/1720-crawler-log-folder) |
+| [1803-average-waiting-time](https://github.com/Shresth0903/leetcode/tree/master/1803-average-waiting-time) |
 ## Hash Table
 |  |
 | ------- |
@@ -109,6 +110,7 @@ my leetcode solutions
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/Shresth0903/leetcode/tree/master/1642-water-bottles) |
+| [1803-average-waiting-time](https://github.com/Shresth0903/leetcode/tree/master/1803-average-waiting-time) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Shresth0903/leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/Shresth0903/leetcode/tree/master/2645-pass-the-pillow) |
 ## Math
