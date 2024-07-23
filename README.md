@@ -81,10 +81,12 @@ my leetcode solutions
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Shresth0903/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1720-crawler-log-folder](https://github.com/Shresth0903/leetcode/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/Shresth0903/leetcode/tree/master/1803-average-waiting-time) |
+| [2502-sort-the-people](https://github.com/Shresth0903/leetcode/tree/master/2502-sort-the-people) |
 ## Hash Table
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shresth0903/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2502-sort-the-people](https://github.com/Shresth0903/leetcode/tree/master/2502-sort-the-people) |
 ## Two Pointers
 |  |
 | ------- |
@@ -98,6 +100,7 @@ my leetcode solutions
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shresth0903/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Shresth0903/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [2502-sort-the-people](https://github.com/Shresth0903/leetcode/tree/master/2502-sort-the-people) |
 ## Greedy
 |  |
 | ------- |
@@ -122,6 +125,7 @@ my leetcode solutions
 |  |
 | ------- |
 | [1720-crawler-log-folder](https://github.com/Shresth0903/leetcode/tree/master/1720-crawler-log-folder) |
+| [2502-sort-the-people](https://github.com/Shresth0903/leetcode/tree/master/2502-sort-the-people) |
 ## Stack
 |  |
 | ------- |
