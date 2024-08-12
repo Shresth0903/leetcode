@@ -77,6 +77,7 @@ my leetcode solutions
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Shresth0903/leetcode/tree/master/0053-maximum-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shresth0903/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shresth0903/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/Shresth0903/leetcode/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Shresth0903/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -95,6 +96,7 @@ my leetcode solutions
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shresth0903/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shresth0903/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
 |  |
