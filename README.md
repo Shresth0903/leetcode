@@ -76,6 +76,7 @@ my leetcode solutions
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Shresth0903/leetcode/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/Shresth0903/leetcode/tree/master/0053-maximum-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shresth0903/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shresth0903/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -143,4 +144,8 @@ my leetcode solutions
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Shresth0903/leetcode/tree/master/0053-maximum-subarray) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/Shresth0903/leetcode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
