@@ -148,4 +148,8 @@ my leetcode solutions
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Shresth0903/leetcode/tree/master/0046-permutations) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0476-number-complement](https://github.com/Shresth0903/leetcode/tree/master/0476-number-complement) |
 <!---LeetCode Topics End-->
