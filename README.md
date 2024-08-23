@@ -79,6 +79,7 @@ my leetcode solutions
 | [0046-permutations](https://github.com/Shresth0903/leetcode/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/Shresth0903/leetcode/tree/master/0053-maximum-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shresth0903/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shresth0903/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shresth0903/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0890-lemonade-change](https://github.com/Shresth0903/leetcode/tree/master/0890-lemonade-change) |
 | [1293-three-consecutive-odds](https://github.com/Shresth0903/leetcode/tree/master/1293-three-consecutive-odds) |
@@ -94,11 +95,13 @@ my leetcode solutions
 ## Two Pointers
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shresth0903/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shresth0903/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shresth0903/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shresth0903/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shresth0903/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
 |  |
