@@ -140,6 +140,7 @@ my leetcode solutions
 ## Stack
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/Shresth0903/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [1720-crawler-log-folder](https://github.com/Shresth0903/leetcode/tree/master/1720-crawler-log-folder) |
 ## Divide and Conquer
 |  |
@@ -161,4 +162,16 @@ my leetcode solutions
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shresth0903/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Tree
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/Shresth0903/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/Shresth0903/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/Shresth0903/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
