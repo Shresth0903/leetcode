@@ -141,6 +141,7 @@ my leetcode solutions
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shresth0903/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/Shresth0903/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1720-crawler-log-folder](https://github.com/Shresth0903/leetcode/tree/master/1720-crawler-log-folder) |
 ## Divide and Conquer
 |  |
@@ -166,10 +167,12 @@ my leetcode solutions
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shresth0903/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/Shresth0903/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shresth0903/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/Shresth0903/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
