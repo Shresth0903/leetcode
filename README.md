@@ -91,6 +91,7 @@ my leetcode solutions
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Shresth0903/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/Shresth0903/leetcode/tree/master/0202-happy-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shresth0903/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2502-sort-the-people](https://github.com/Shresth0903/leetcode/tree/master/2502-sort-the-people) |
 ## Two Pointers
@@ -99,6 +100,7 @@ my leetcode solutions
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shresth0903/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0142-linked-list-cycle-ii](https://github.com/Shresth0903/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shresth0903/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/Shresth0903/leetcode/tree/master/0202-happy-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shresth0903/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
 |  |
@@ -133,6 +135,7 @@ my leetcode solutions
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Shresth0903/leetcode/tree/master/0202-happy-number) |
 | [1642-water-bottles](https://github.com/Shresth0903/leetcode/tree/master/1642-water-bottles) |
 | [2645-pass-the-pillow](https://github.com/Shresth0903/leetcode/tree/master/2645-pass-the-pillow) |
 ## String
