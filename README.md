@@ -118,6 +118,7 @@ my leetcode solutions
 ## Linked List
 |  |
 | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Shresth0903/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Shresth0903/leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Simulation
 |  |
