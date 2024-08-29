@@ -90,12 +90,14 @@ my leetcode solutions
 ## Hash Table
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Shresth0903/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shresth0903/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2502-sort-the-people](https://github.com/Shresth0903/leetcode/tree/master/2502-sort-the-people) |
 ## Two Pointers
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shresth0903/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0142-linked-list-cycle-ii](https://github.com/Shresth0903/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shresth0903/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shresth0903/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
@@ -119,6 +121,7 @@ my leetcode solutions
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Shresth0903/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0142-linked-list-cycle-ii](https://github.com/Shresth0903/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Shresth0903/leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Simulation
 |  |
