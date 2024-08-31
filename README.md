@@ -174,6 +174,7 @@ my leetcode solutions
 ## Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Shresth0903/leetcode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Shresth0903/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Shresth0903/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Shresth0903/leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
@@ -184,6 +185,7 @@ my leetcode solutions
 ## Depth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Shresth0903/leetcode/tree/master/0101-symmetric-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Shresth0903/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shresth0903/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Shresth0903/leetcode/tree/master/0199-binary-tree-right-side-view) |
@@ -191,6 +193,7 @@ my leetcode solutions
 ## Binary Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Shresth0903/leetcode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Shresth0903/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Shresth0903/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Shresth0903/leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
@@ -200,6 +203,7 @@ my leetcode solutions
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Shresth0903/leetcode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Shresth0903/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Shresth0903/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Shresth0903/leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
