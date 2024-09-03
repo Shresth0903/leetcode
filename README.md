@@ -132,6 +132,7 @@ my leetcode solutions
 | ------- |
 | [1642-water-bottles](https://github.com/Shresth0903/leetcode/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/Shresth0903/leetcode/tree/master/1803-average-waiting-time) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/Shresth0903/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Shresth0903/leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/Shresth0903/leetcode/tree/master/2645-pass-the-pillow) |
 ## Math
@@ -145,6 +146,7 @@ my leetcode solutions
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shresth0903/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1720-crawler-log-folder](https://github.com/Shresth0903/leetcode/tree/master/1720-crawler-log-folder) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/Shresth0903/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2502-sort-the-people](https://github.com/Shresth0903/leetcode/tree/master/2502-sort-the-people) |
 ## Stack
 |  |
